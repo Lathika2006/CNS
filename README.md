@@ -81,3 +81,7 @@ void main()
 
 ![image](https://github.com/user-attachments/assets/3ed45c44-7be0-4f34-b6b9-66795d3bca22)
 
+## RESULT:
+
+The program is executed successfully.
+
